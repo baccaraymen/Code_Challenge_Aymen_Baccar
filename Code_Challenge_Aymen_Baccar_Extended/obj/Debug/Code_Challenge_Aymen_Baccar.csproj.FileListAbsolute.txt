@@ -1,0 +1,62 @@
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.AssemblyReference.cache
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.SuggestedBindingRedirects.cache
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\MainWindow.g.cs
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\App.g.cs
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar_MarkupCompile.cache
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar_MarkupCompile.lref
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.exe.config
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.exe
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.pdb
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Newtonsoft.Json.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Newtonsoft.Json.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\MainWindow.baml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.g.resources
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.Properties.Resources.resources
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.GenerateResource.cache
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.CoreCompileInputs.cache
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.CopyComplete
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.exe
+D:\WSCAD\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.pdb
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Serilog.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Buffers.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Memory.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Numerics.Vectors.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\Serilog.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Buffers.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Memory.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Numerics.Vectors.xml
+D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.AssemblyReference.cache
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.SuggestedBindingRedirects.cache
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\MainWindow.g.cs
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\App.g.cs
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar_MarkupCompile.cache
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar_MarkupCompile.lref
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.exe
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.pdb
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.exe.config
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.exe
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Code_Challenge_Aymen_Baccar.pdb
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Newtonsoft.Json.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Serilog.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Buffers.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Memory.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Numerics.Vectors.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Newtonsoft.Json.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\Serilog.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Buffers.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Memory.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Numerics.Vectors.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\MainWindow.baml
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.g.resources
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.Properties.Resources.resources
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.GenerateResource.cache
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.CoreCompileInputs.cache
+D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\obj\Debug\Code_Challenge_Aymen_Baccar.csproj.CopyComplete

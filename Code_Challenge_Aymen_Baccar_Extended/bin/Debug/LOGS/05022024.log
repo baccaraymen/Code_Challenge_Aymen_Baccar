@@ -1,0 +1,29 @@
+05/02/2024 15:59:13;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+05/02/2024 16:11:50;Impossible d'effectuer une liaison au moment de l'exécution sur une référence null;   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à Code_Challenge_Aymen_Baccar.MainWindow.TranslateShape(Shape shape, Double translateX, Double translateY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 175
+
+05/02/2024 16:11:50;'System.Collections.Generic.List<System.Windows.Point>' ne contient pas de définition pour 'Skip';   à CallSite.Target(Closure , CallSite , Object , Int32 )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 32
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 96
+
+05/02/2024 16:15:12;Impossible d'effectuer une liaison au moment de l'exécution sur une référence null;   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à Code_Challenge_Aymen_Baccar.MainWindow.TranslateShape(Shape shape, Double translateX, Double translateY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 175
+
+05/02/2024 16:16:43;'System.Collections.Generic.List<System.Windows.Point>' ne contient pas de définition pour 'Skip';   à CallSite.Target(Closure , CallSite , Object , Int32 )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 32
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 96
+
+05/02/2024 16:25:28;'System.Windows.Point' ne contient pas de définition pour 'Value';   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 74
+
+05/02/2024 16:35:55;'System.Windows.Point' ne contient pas de définition pour 'HasValue';   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à ShapeRenderer.Render(Shape shape, DrawingContext context)
+

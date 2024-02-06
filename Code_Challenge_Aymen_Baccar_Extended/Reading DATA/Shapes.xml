@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shapes>
+	<Shape type="line" color="255;0;0;255">
+		<Points>
+			<Point x="-300" y="-200" />
+			<Point x="-80" y="-200" />
+		</Points>
+	</Shape>
+	<Shape type="circle" color="127; 255; 0; 0" centerX="0" centerY="0" radius="100.0" filled="true" />
+	<Shape type="triangle" color="127; 255; 0; 255" filled="true">
+		<Points>
+			<Point x="600.3" y="200.5" />
+			<Point x="-600" y="200" />
+			<Point x="0" y="1500.8" />
+		</Points>
+	</Shape>
+	<Shape type="Rectangle" color="86; 0; 128; 128" filled="true">
+		<Points>
+			<Point x="-500" y="150" />
+			<Point x="500" y="150" />
+			<Point x="500" y="-150" />
+			<Point x="-500" y="-150" />
+		</Points>
+	</Shape>
+</Shapes>

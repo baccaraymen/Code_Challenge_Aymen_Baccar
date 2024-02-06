@@ -1,0 +1,25 @@
+02/02/2024 08:59:10;La valeur était trop grande ou trop petite pour un octet non signé.;   à System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Byte.Parse(String s)
+   à Code_Challenge_Aymen_Baccar.Classes.XmlReader.ParseColor(XElement element) dans D:\WSCAD\Code_Challenge_Aymen_Baccar\Classes\XmlReader.cs:ligne 137
+
+02/02/2024 08:59:52;La valeur était trop grande ou trop petite pour un octet non signé.;   à System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Byte.Parse(String s)
+   à Code_Challenge_Aymen_Baccar.Classes.XmlReader.ParseColor(XElement element) dans D:\WSCAD\Code_Challenge_Aymen_Baccar\Classes\XmlReader.cs:ligne 137
+
+02/02/2024 09:00:24;La valeur était trop grande ou trop petite pour un octet non signé.;   à System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Byte.Parse(String s)
+   à Code_Challenge_Aymen_Baccar.Classes.XmlReader.ParseColor(XElement element) dans D:\WSCAD\Code_Challenge_Aymen_Baccar\Classes\XmlReader.cs:ligne 137
+
+02/02/2024 09:00:52;La valeur était trop grande ou trop petite pour un octet non signé.;   à System.Byte.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Byte.Parse(String s)
+   à Code_Challenge_Aymen_Baccar.Classes.XmlReader.ParseColor(XElement element) dans D:\WSCAD\Code_Challenge_Aymen_Baccar\Classes\XmlReader.cs:ligne 137
+
+02/02/2024 11:50:25;Le fichier 'D:\WSCAD\Code_Challenge_Aymen_Baccar\bin\hapes.json' est introuvable.;   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   à System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   à System.IO.File.ReadAllText(String path)
+   à JsonShapeReader.ReadShapes(String filePath)
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY)
+

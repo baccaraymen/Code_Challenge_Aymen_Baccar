@@ -1,0 +1,48 @@
+04/02/2024 12:42:32;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+04/02/2024 12:43:20;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+04/02/2024 13:04:40;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+04/02/2024 13:14:13;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+04/02/2024 13:17:56;Unsupported shape type.;   à ShapeRenderer.Render(Shape shape, DrawingContext context) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\Classes\Renderer.cs:ligne 43
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 99
+
+04/02/2024 13:18:31;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:19:57;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:22:23;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:28:11;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:28:37;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:30:37;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:30:53;La séquence ne contient aucun élément.;   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 143
+
+04/02/2024 13:48:42;Un objet qui autorise la valeur Null doit posséder une valeur.;   à System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   à System.Nullable`1.get_Value()
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 144
+
+04/02/2024 13:50:44;Un objet qui autorise la valeur Null doit posséder une valeur.;   à System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   à System.Nullable`1.get_Value()
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 144
+
+04/02/2024 13:53:02;Un objet qui autorise la valeur Null doit posséder une valeur.;   à System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   à System.Nullable`1.get_Value()
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 138
+

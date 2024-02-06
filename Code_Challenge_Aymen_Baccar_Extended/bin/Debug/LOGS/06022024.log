@@ -1,0 +1,22 @@
+06/02/2024 13:23:52;'System.Windows.Point' ne contient pas de définition pour 'Value';   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 140
+
+06/02/2024 13:24:09;'System.Windows.Point' ne contient pas de définition pour 'Value';   à CallSite.Target(Closure , CallSite , Object )
+   à System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   à Code_Challenge_Aymen_Baccar.MainWindow.getScale(IEnumerable`1 shapes) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 140
+
+06/02/2024 14:23:13;L'index spécifié est en dehors des limites admises ou l'enfant à l'index a la valeur null. N'appelez pas cette méthode si VisualChildrenCount renvoie la valeur zéro, ce qui signifie que le Visual n'a pas d'enfant.
+Nom du paramètre : index
+La valeur réelle était 0.;   à System.Windows.FrameworkElement.GetVisualChild(Int32 index)
+   à System.Windows.DescendentsWalker`1.WalkFrameworkElementLogicalThenVisualChildren(FrameworkElement feParent, Boolean hasLogicalChildren)
+   à System.Windows.DescendentsWalker`1.IterateChildren(DependencyObject d)
+   à System.Windows.DescendentsWalker`1.StartWalk(DependencyObject startNode, Boolean skipStartNode)
+   à MS.Internal.PrePostDescendentsWalker`1.StartWalk(DependencyObject startNode, Boolean skipStartNode)
+   à System.Windows.TreeWalkHelper.InvalidateOnTreeChange(FrameworkElement fe, FrameworkContentElement fce, DependencyObject parent, Boolean isAddOperation)
+   à System.Windows.FrameworkElement.ChangeLogicalParent(DependencyObject newParent)
+   à System.Windows.FrameworkElement.AddLogicalChild(Object child)
+   à System.Windows.Controls.UIElementCollection.AddInternal(UIElement element)
+   à System.Windows.Controls.UIElementCollection.Add(UIElement element)
+   à Code_Challenge_Aymen_Baccar.MainWindow.LoadAndRenderShapes(Double centerX, Double centerY) dans D:\WSCAD - Extended\Code_Challenge_Aymen_Baccar\MainWindow.xaml.cs:ligne 108
+
