@@ -53,7 +53,7 @@ namespace Code_Challenge_Aymen_Baccar
                 var shapes = reader.ReadShapes(@"..\..\Reading data\shapes -General.json");
 
                 ///////////////////////////////////////////////////////////////////////////
-                // Remove the double slashes below  in order to retrieve datas from Xml  //
+                // Remove the double slashes below  in order to retrieve datas from Xml and comment the two lines above//
                 ///////////////////////////////////////////////////////////////////////////
                 
 
