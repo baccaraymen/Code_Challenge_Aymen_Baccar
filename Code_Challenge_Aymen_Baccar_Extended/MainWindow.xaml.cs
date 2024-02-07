@@ -96,7 +96,7 @@ namespace Code_Challenge_Aymen_Baccar
                         
 
 
-
+// The translation function centers shapes with the origin at the window's center and inverts the Y-axis to point upwards 
                         shape.TranslateShape(centerX, centerY);
 
                         renderer.Render(shape, context);
