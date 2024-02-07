@@ -12,7 +12,6 @@ public class ShapeRenderer
         try
         {
             var pen = new Pen(new SolidColorBrush(shape.color), 1);
-            //  var pen = new Pen(new SolidColorBrush(Color.FromArgb(255, 0, 0, 0)), 1); // Noir, épaisseur 1
             SolidColorBrush brush = shape.filled.HasValue && shape.filled != null
                      ? new SolidColorBrush(shape.color as Color? ?? Colors.Black)
                      : Brushes.Transparent;
@@ -22,12 +21,11 @@ public class ShapeRenderer
             // Handle circle separately due to the need for a center and radius
             if (shape.radius != null && shape.center != null)
             {
-                // Draw circle
                 context.DrawEllipse(brush, pen, new Point(shape.center.X, shape.center.Y), shape.radius.Value, shape.radius.Value);
             }
             else
             {
-                // For other shapes, use the Points list to draw lines 
+                // For other shapes, the Points list is used to to draw lines 
                 if (shape.points.Count > 1)
                 {
                     var geometry = new StreamGeometry();
