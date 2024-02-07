@@ -17,10 +17,10 @@ namespace Code_Challenge_Aymen_Baccar.Classes
         {
             try
             {
-                string colorStr = Convert.ToString(shapeData.color); // Conversion dynamique en chaîne
+                string colorStr = Convert.ToString(shapeData.color); 
 
                 Color color = ParseColor(colorStr);
-                string stype = shapeData.type; // Getting the shape type from the JSON
+                string stype = shapeData.type; 
 
                 double? radius = null;
                 bool? filled = null;
@@ -111,8 +111,7 @@ namespace Code_Challenge_Aymen_Baccar.Classes
             }
             catch (Exception ex)
             {
-                // Handle parsing errors here or set a default color
-                return Colors.Black; // Default color in case of parsing error
+                return Colors.Black; 
             }
         }
        
