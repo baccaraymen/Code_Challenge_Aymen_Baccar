@@ -4,8 +4,7 @@ This .NET C# application is designed for the visualization of vector graphics. I
 ## Key Features
 
 - **Multiple File Formats**: This application supports vector graphics defined in both JSON and XML formats, offering flexibility in data usage and integration.
-To switch between JSON and XML file formats, adjust the code in the `LoadAndRenderShapes` function within `mainwindow.xaml.cs` by commenting/uncommenting the relevant lines as documented in the source code. This flexibility allows for easy   
-integration with various data sources and formats.
+To switch between JSON and XML file formats, adjust the code in the `LoadAndRenderShapes` function within `mainwindow.xaml.cs` by commenting/uncommenting the relevant lines as documented in the source code. This flexibility allows for easy integration with various data sources and formats.
 The xml and json files are located in the Reading Data folder.
   
 - **Extensive Shape Support**: Beyond basic geometric shapes like lines, circles, and triangles, the application is capable of displaying complex polygons, allowing for a broader range of graphics visualization. You can define and add custom shapes to the JSON or XML file (such as rectangles). Simply specify the color, type, and an array of points that define the shape.
